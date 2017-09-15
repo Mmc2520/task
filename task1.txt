@@ -1,0 +1,27 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<meta charest="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>viewport</title>
+<style>
+div{float:left;
+padding-top:30%;
+width:30%;
+margin:1.5%;
+background:orange;
+border-radius: 10%;
+}
+</style>
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</body>
+</html>
